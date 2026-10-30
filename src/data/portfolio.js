@@ -4,8 +4,8 @@ export const profile = {
   role: "Full-Stack Developer",
   location: "Madurai, India",
   email: "chandruarchunan04@gmail.com",
-  intro:
-    "Computer Science Engineer who builds clean full-stack apps and NLP models. I like turning ideas into software that real people can use.",
+    intro:
+    "Computer Science graduate who builds clean full-stack apps and NLP models. I like turning ideas into software that real people can use.",
   github: "https://github.com/chandru1227",
   linkedin: "https://linkedin.com/in/chandrua",
   leetcode: "https://leetcode.com/u/chandrua22cse",
@@ -25,7 +25,7 @@ export const techTicker = [
 ];
 
 export const about = [
-  "I'm a final-year Computer Science student at Kongu Engineering College with a strong interest in full-stack development and applied machine learning.",
+  "I'm a Computer Science graduate (B.E., Kongu Engineering College, 2026) with a strong interest in full-stack development and applied machine learning.",
   "I build end-to-end systems: React front ends, Spring Boot and Node.js back ends, and SQL/NoSQL databases. I also research NLP models for detecting harmful content online, including a paper published at IEEE IConSCEPT 2025.",
   "I enjoy solving problems, which is why I practise Data Structures and Algorithms regularly on LeetCode.",
 ];

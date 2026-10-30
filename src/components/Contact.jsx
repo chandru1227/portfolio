@@ -24,7 +24,7 @@ export default function Contact() {
             Let's work <em>together.</em>
           </h2>
           <p className="lead">
-            Looking for a fresher developer for your team? I'm open to full-time roles and internships, so let's talk.
+Looking for a developer to join your team? I'm open to full-time roles, so let's talk.
           </p>
           <div className="mail">
             <span className="label">Drop me a line</span>
